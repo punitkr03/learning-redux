@@ -1,2 +1,2 @@
-# learning-redux
+# Learning redux
 Redux learning project.
